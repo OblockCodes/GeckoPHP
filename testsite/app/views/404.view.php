@@ -1,0 +1,1 @@
+<h1 style="text-align: center;"><img src= "<?=ROOT?>/assets/images/404.png"></h1>
